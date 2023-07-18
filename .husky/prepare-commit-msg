@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+npm run changelog && git add CHANGELOG.md
+
+. "$(dirname -- "$0")/_/husky.sh"
