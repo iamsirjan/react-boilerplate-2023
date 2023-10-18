@@ -10,18 +10,7 @@
     "esModuleInterop": false,
     "baseUrl": "./src",
     "paths": {
-      "@lenden/hooks/*": ["hooks/*"],
-      "@lenden/helper/*": ["helper/*"],
-      "@lenden/components/*": ["components/*"],
-      "@lenden/pages/*": ["pages/*"],
-      "@lenden/providers/*": ["providers/*"],
-      "@lenden/routes/*": ["routes/*"],
-      "@lenden/service/*": ["service/*"],
-      "@lenden/theme/*": ["theme/*"],
-      "@lenden/translations/*": ["translations/*"],
-      "@lenden/types/*": ["types/*"],
-      "@lenden/assets/*": ["assets/*"],
-      "@lenden/utils/*": ["utils/*"]
+      "@lenden/pages/*": ["pages/*"]
     },
     "allowSyntheticDefaultImports": true,
     "strict": true,
