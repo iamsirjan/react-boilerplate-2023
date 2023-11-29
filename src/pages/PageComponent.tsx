@@ -1,3 +1,3 @@
 export const PageComponent = () => {
-  return <p>dsaasadasaaaaaaaaaaaaaaa</p>;
+  return <p>page</p>;
 };
